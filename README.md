@@ -1,3 +1,9 @@
+### What's this?
+- Simple drag and drop using reactJS
+- duplicate main element
+- allow drag -n- dropping of duplicated item
+
+
 ### Prerequisites
 - Latest Node.js installed
 - Latest gulp installed "npm install -g gulp"
